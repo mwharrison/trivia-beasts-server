@@ -1,1 +1,5 @@
-This is a test of <?php echo "PHP rendering"; ?>
+<?php
+    
+echo "App in progress...";
+
+?>
