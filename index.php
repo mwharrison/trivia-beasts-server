@@ -81,7 +81,7 @@
             <div class="header-content-inner">
                 <img src="img/logo.png" width="80%">
                 <hr>
-                <p>Coming soon to Apple TV!</p>
+                <p>Coming soon to an Apple TV near you!</p>
                 <!--<a href="#" class="btn btn-primary btn-xl page-scroll">Coming soon to TVos</a>-->
             </div>
         </div>
